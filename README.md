@@ -1,2 +1,2 @@
-# Python-Game-Developmen-Using-PyGame
+# Python-Game-Development-Using-PyGame
 Developing Games using PyGame
